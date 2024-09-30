@@ -1,1 +1,2 @@
 This file is create to learn git and git hub.
+Now I can understand git functionality.
