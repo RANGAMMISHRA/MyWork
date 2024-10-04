@@ -1,2 +1,4 @@
 The second file opened to learn git.
 this file is added in smartsoft branch
+changes made to push this file
+next change to see impact.
